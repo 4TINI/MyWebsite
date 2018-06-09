@@ -109,7 +109,7 @@
 
 				}
 
-		// Main Sections: Two.
+		// Main Sections: three and four.
 
 			// Lightbox gallery.
 				$window.on('load', function() {
